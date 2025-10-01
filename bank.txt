@@ -1,0 +1,9 @@
+Account: Adrian Mangwiro|Transaction: DEPOSIT|Amount: 500.0|Balance: 1500.0|status SUCCESS
+Account: Adrian Mangwiro|Transaction: DEPOSIT|Amount: -200.0|Balance: 1500.0|status FAILED-(Invalid amount
+Account: Adrian Mangwiro|Transaction: WITHDRAW|Amount: 200.0|Balance: 1300.0|status SUCCESS
+Account: Adrian Mangwiro|Transaction: WITHDRAWAL|Amount: 3000.0|Balance: 1300.0|status FAILED-(Insufficient funds)
+Account: Adrian Mangwiro|Transaction: WITHDRAW|Amount: -50.0|Balance: 1300.0|status FAILED-(invalid amount)
+Account: Adrian Mangwiro|Transaction: BALANCE_CHECK|Amount: 0.0|Balance: 1300.0|status SUCCESS
+Account: Adrian Mangwiro|Transaction: DEPOSIT|Amount: 300.0|Balance: 1600.0|status SUCCESS
+Account: Adrian Mangwiro|Transaction: WITHDRAW|Amount: 400.0|Balance: 1200.0|status SUCCESS
+Account: Adrian Mangwiro|Transaction: BALANCE_CHECK|Amount: 0.0|Balance: 1200.0|status SUCCESS
